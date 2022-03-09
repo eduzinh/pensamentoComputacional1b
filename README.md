@@ -1,4 +1,4 @@
 # pensamentoComputacional1b
-Prof: Welington 
+# Prof: Welington 
 
-Alunos: Nicolle e Eduardo 
+# Alunos: Nicolle e Eduardo 
